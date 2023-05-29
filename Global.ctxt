@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Global
+comment1.params=
+comment1.target=Global()
+comment1.text=public\ static\ final\ GreenfootSound\ \ \n\ \ \ \ \ \ \ \ opening\ \=\ new\ GreenfootSound("opening.mp3"),\n\ \ \ \ \ \ \ \ bgm\ \=\ new\ GreenfootSound("bgm.mp3"),\nbeach\ \=\ new\ GreenfootSound("beach.mp3");
+numComments=2

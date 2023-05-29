@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Land
+comment1.params=w\ h\ c
+comment1.target=Land(int,\ int,\ int)
+comment2.params=villager\ from
+comment2.target=Land(You,\ java.lang.String)
+comment3.params=
+comment3.target=void\ addFlowers()
+comment4.params=
+comment4.target=void\ addTrees()
+comment5.params=
+comment5.target=int\ getRandX()
+comment6.params=
+comment6.target=int\ getRandY()
+comment7.params=
+comment7.target=void\ prepare()
+numComments=8

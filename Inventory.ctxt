@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x
+comment2.target=boolean\ addToInventory(greenfoot.Actor)
+comment3.params=world
+comment3.target=void\ displayInventoryFull(greenfoot.World)
+comment4.params=World
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=
+comment5.target=void\ toggleInventory()
+comment6.params=
+comment6.target=void\ removeInv()
+comment7.params=
+comment7.target=void\ checkInv()
+comment8.params=a
+comment8.target=void\ remove(greenfoot.Actor)
+numComments=9

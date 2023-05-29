@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trunk
+comment1.params=
+comment1.target=void\ addFruits()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ dropFruits()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

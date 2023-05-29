@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fruit
+comment1.params=
+comment1.target=void\ act()
+comment2.params=bottom
+comment2.target=void\ dropFruit(int)
+comment3.params=
+comment3.target=boolean\ isOnTree()
+comment4.params=
+comment4.target=boolean\ isDropped()
+comment5.params=
+comment5.target=void\ setInInventoryState()
+numComments=6

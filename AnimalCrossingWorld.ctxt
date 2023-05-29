@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnimalCrossingWorld
+comment1.params=
+comment1.target=AnimalCrossingWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=v
+comment3.target=void\ checkKeys(You)
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Three4
+comment0.text=\n\ Write\ a\ description\ of\ class\ Three4\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=villager\ from
+comment1.target=Three4(You,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Three4.\n\ \n
+numComments=2

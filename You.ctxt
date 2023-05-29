@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=You
+comment1.params=
+comment1.target=You()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkPosition()
+comment4.params=
+comment4.target=void\ playBGM()
+comment5.params=
+comment5.target=void\ beachBGM()
+numComments=6

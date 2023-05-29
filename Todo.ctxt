@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Todo
+comment1.params=
+comment1.target=void\ act()
+comment2.params=World
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ checkClicks()
+comment4.params=
+comment4.target=void\ trackToDos()
+numComments=5
